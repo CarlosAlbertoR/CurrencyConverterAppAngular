@@ -1,5 +1,11 @@
 # CurrencyConverterAppAngular
 
+## Description
+Currency Converter application developed in Angular. 
+
+
+![](./src/assets/img/Screenshot.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
